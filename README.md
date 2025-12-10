@@ -34,7 +34,7 @@ xo-game-react/
 ├── src/
 │   ├── components/
 │   │   ├── Board.jsx        # 3x3 grid
-│   │   ├── Square.jsx       # single cell / button
+│   │   ├── Square.jsx       # single cell
 │   │   └── StatusBar.jsx    # current player / winner text
 │   ├── utils/
 │   │   └── calculateWinner.js
@@ -112,3 +112,4 @@ Better UI, animations, sounds
 Dark / light theme
 
 Online multiplayer (socket-based)
+```
