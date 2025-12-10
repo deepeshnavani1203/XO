@@ -1,4 +1,4 @@
-# XO Game (Tic-Tac-Toe) – React JS
+# XO Game (Tic-Tac-Toe)
 
 This is a small XO / Tic-Tac-Toe game built in React JS.  
 It’s a simple 3x3 board where two players can play on the same screen.
